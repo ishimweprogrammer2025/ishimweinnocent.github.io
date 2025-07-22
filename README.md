@@ -1,2 +1,2 @@
-# Ishimweinnocent.github.io
+# ishimweinnocent.github.io
 Jaylen's personal website 
